@@ -1,7 +1,6 @@
 import random as rd
 cpu_choices = rd.choice(["rock", "paper", "scissors"])
-user_choice = input("Enter rock,paper or scissors:")
-user_choice = user_choice.lower()
+user_choice = rd.choice(["rock", "paper", "scissors"])
 print(user_choice)
 if cpu_choices == user_choice:
     print("The Game is a Tie")

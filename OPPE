@@ -1,0 +1,8 @@
+user = input("Enter you string:")
+if len(user) < 5:
+    print("Enter a longer string")
+elif (len(user) % 2 == 0):
+    print("Enter a odd numbered string")
+else:
+    middle = (len(user) + 1)//2
+    print(user[middle:(middle+3)])
