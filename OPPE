@@ -1,8 +1,34 @@
-user = input("Enter you string:")
-if len(user) < 5:
-    print("Enter a longer string")
-elif (len(user) % 2 == 0):
-    print("Enter a odd numbered string")
-else:
-    middle = (len(user) + 1)//2
-    print(user[middle:(middle+3)])
+from game_data import data
+import random as ran 
+
+def format_data(account):
+    account_name = account["name"]
+    account_descr = account["description"]
+    account_country  = account["country"]
+    return (f"{account_name},{account_descr} from {account_country}")
+
+def answer(guess,a_followers,b_followers):
+    if a_followers > b_followers:
+        return guess == "a"
+    else:
+        return guess == "b"
+
+score = 0
+game = True
+account_b = ran.choice(data)
+while game:
+    account_a = account_b
+    account_b = ran.choice(data)
+    print(f"compare A :{format_data(account_a)}")
+    print("vs")
+    print(f"Comapre B: {format_data(account_b)}")
+    guess = input("Which one has mpre followers A or B:").lower()
+    a_follower_count = account_a["follower_count"]
+    b_follower_count = account_b["follower_count"]
+    correct = answer(guess,a_follower_count,b_follower_count)
+    if correct:
+        score += 1
+        print(f"Correct {score}")
+    else:
+        print(f"Wrong {score}")
+        game = False
