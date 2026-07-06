@@ -1,1 +1,2 @@
-print(35%5)
+a = float("inf")
+print(a)

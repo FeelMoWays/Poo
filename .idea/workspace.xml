@@ -4,34 +4,36 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5287a1ea-617e-4263-98d2-7d64cda7c178" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercism/BOB.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercism/LittleSisterVocab.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercism/arcade_game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercism/armstrongnumbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercism/blackjack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercism/collatzconjecture.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercism/conditionals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercism/darts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercism/exchange.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercism/grains.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercism/raindrops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercism/triangles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codwars/SuperScale.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codwars/binarymultiplication.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codwars/joesphesuspermutation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codwars/nthordersummation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codwars/snailtest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codwars/stringmanipulation.py" afterDir="false" />
+    <list default="true" id="5287a1ea-617e-4263-98d2-7d64cda7c178" name="Changes" comment="go">
+      <change afterPath="$PROJECT_DIR$/Exercism/CaesarCipher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercism/ISBN Verifier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercism/LittleSistersEssay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercism/MakingTheGrade.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercism/PigLatin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercism/SecretHandshkae.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercism/SubList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercism/TisburyTreasureHunt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercism/diffrenceOfSquares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercism/isogram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercism/listis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercism/listmethods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercism/panagram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercism/perfectnumbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/JoinAndSplit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/Mutations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/NestedLists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/Sybstring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/tuplesss.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codwars/BaumSweetSequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codwars/CalculationType.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codwars/LiningTheStudents.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codwars/MaxieMinnie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codwars/Sublists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codwars/WeirdStringCase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codwars/mosersegments.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Poo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Poo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codwars/newmember.py" beforeDir="false" afterPath="$PROJECT_DIR$/codwars/newmember.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hirst/painting.py" beforeDir="false" afterPath="$PROJECT_DIR$/hirst/painting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/palindromewostr.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/palindromewostr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/blackjack.py" beforeDir="false" afterPath="$PROJECT_DIR$/random/blackjack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/random/kaggle.py" beforeDir="false" afterPath="$PROJECT_DIR$/random/kaggle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/random/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/op.py" beforeDir="false" afterPath="$PROJECT_DIR$/random/op.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +41,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="73" />
+    <option name="cachedIndexableFilesCount" value="107" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -53,68 +55,83 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;FeelMoWays&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/FeelMoWays/Poo.git&quot;,
+    &quot;accountId&quot;: &quot;aa0922c1-4468-4b86-af5a-184dc92cb3e9&quot;
+  }
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.3815370735371984E-24" />
-      <entry key="MS500" value="1.7058960850475592E-5" />
-      <entry key="S2" value="0.08386072649100679" />
-      <entry key="S5" value="0.5468686841439208" />
-      <entry key="S10" value="1.155139349087457" />
-      <entry key="S30" value="3.050711108319558" />
-      <entry key="S60" value="5.4694075211734665" />
-      <entry key="M2" value="8.411108576155598" />
-      <entry key="M5" value="13.111978152231476" />
-      <entry key="M10" value="22.642535761148846" />
-      <entry key="M15" value="32.83720446384085" />
-      <entry key="M30" value="57.06249956615114" />
-      <entry key="H1" value="89.47435014345561" />
-      <entry key="H2" value="151.43683540166967" />
-      <entry key="H4" value="256.3641035085335" />
-      <entry key="D1" value="490.46248631014606" />
-      <entry key="W1" value="559.3041470593295" />
+      <entry key="MS100" value="1.0000001498319664" />
+      <entry key="MS500" value="1.0632281763241593" />
+      <entry key="S2" value="2.0370441227122753" />
+      <entry key="S5" value="3.9161316195199176" />
+      <entry key="S10" value="7.079649959812881" />
+      <entry key="S30" value="15.30081954453635" />
+      <entry key="S60" value="20.076177645483266" />
+      <entry key="M2" value="24.29173755229057" />
+      <entry key="M5" value="32.92154546877485" />
+      <entry key="M10" value="44.86646432564164" />
+      <entry key="M15" value="54.150864030068" />
+      <entry key="M30" value="77.93454595017043" />
+      <entry key="H1" value="129.28613810759393" />
+      <entry key="H2" value="231.775913685209" />
+      <entry key="H4" value="393.0716017121799" />
+      <entry key="D1" value="1246.476819545661" />
+      <entry key="W1" value="1844.2151831221656" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.000044371719889" />
-      <entry key="MS500" value="1.1347166512160538" />
-      <entry key="S2" value="1.6155983505871834" />
-      <entry key="S5" value="2.0124160056664033" />
-      <entry key="S10" value="2.5257596261086883" />
-      <entry key="S30" value="3.7233927146461485" />
-      <entry key="S60" value="4.659047642134784" />
-      <entry key="M2" value="5.5314728376730935" />
-      <entry key="M5" value="6.512929479029647" />
-      <entry key="M10" value="8.245471980975296" />
-      <entry key="M15" value="10.295448308664676" />
-      <entry key="M30" value="15.755868247496801" />
-      <entry key="H1" value="25.04062361204113" />
-      <entry key="H2" value="49.1840952020995" />
-      <entry key="H4" value="92.95756437780524" />
-      <entry key="D1" value="188.53520309374613" />
-      <entry key="W1" value="215.96943012290683" />
+      <entry key="MS100" value="3.752136673066435E-4" />
+      <entry key="MS500" value="0.20646957309601313" />
+      <entry key="S2" value="0.6940854953325137" />
+      <entry key="S5" value="1.0969158936111878" />
+      <entry key="S10" value="1.668660737711285" />
+      <entry key="S30" value="3.0820003039357386" />
+      <entry key="S60" value="3.9830941105038624" />
+      <entry key="M2" value="5.2746877957693235" />
+      <entry key="M5" value="8.368613626872452" />
+      <entry key="M10" value="11.876521958541291" />
+      <entry key="M15" value="14.398705652778151" />
+      <entry key="M30" value="21.254049664749367" />
+      <entry key="H1" value="36.56541509002274" />
+      <entry key="H2" value="65.257499589565" />
+      <entry key="H4" value="107.60118727116667" />
+      <entry key="D1" value="367.8035498443122" />
+      <entry key="W1" value="566.2025538624918" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.05183483616818917" />
-      <entry key="MS500" value="0.6282053767481566" />
-      <entry key="S2" value="1.4675364588175566" />
-      <entry key="S5" value="2.406784095014736" />
-      <entry key="S10" value="3.5634883374111688" />
-      <entry key="S30" value="6.701419812534164" />
-      <entry key="S60" value="10.073819310389458" />
-      <entry key="M2" value="13.90424740756218" />
-      <entry key="M5" value="19.60224582740816" />
-      <entry key="M10" value="30.869886998905873" />
-      <entry key="M15" value="43.115507167701345" />
-      <entry key="M30" value="72.80301775173531" />
-      <entry key="H1" value="114.50149252818574" />
-      <entry key="H2" value="200.60735623957933" />
-      <entry key="H4" value="349.3090674368377" />
-      <entry key="D1" value="678.9935242328442" />
-      <entry key="W1" value="775.2728978852637" />
+      <entry key="MS100" value="0.8888915850291892" />
+      <entry key="MS500" value="1.1527991785991292" />
+      <entry key="S2" value="2.558647261399476" />
+      <entry key="S5" value="4.846056475452239" />
+      <entry key="S10" value="8.565657713843365" />
+      <entry key="S30" value="18.23214422197425" />
+      <entry key="S60" value="23.95679142640556" />
+      <entry key="M2" value="29.498858828804067" />
+      <entry key="M5" value="41.24561741899061" />
+      <entry key="M10" value="56.70873960090318" />
+      <entry key="M15" value="68.52051196202179" />
+      <entry key="M30" value="99.16539153876602" />
+      <entry key="H1" value="165.82977080363005" />
+      <entry key="H2" value="297.01252188889606" />
+      <entry key="H4" value="500.6549303147915" />
+      <entry key="D1" value="1614.2709026301395" />
+      <entry key="W1" value="2410.4157210896888" />
     </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6,
@@ -128,35 +145,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.armstrongnumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.binarymultiplication.executor&quot;: &quot;Run&quot;,
-    &quot;Python.collatzconjecture.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kaggle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leapyears.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.painting.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Poo&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.BaumSweetSequence.executor": "Run",
+    "Python.CaesarCipher.executor": "Run",
+    "Python.FlattenTheList.executor": "Run",
+    "Python.House.executor": "Run",
+    "Python.LiningTheStudents.executor": "Run",
+    "Python.RNAHamming.executor": "Run",
+    "Python.SmallestTransformer.executor": "Run",
+    "Python.SubList.executor": "Run",
+    "Python.Sybstring.executor": "Run",
+    "Python.armstrongnumbers.executor": "Run",
+    "Python.binarymultiplication.executor": "Run",
+    "Python.collatzconjecture.executor": "Run",
+    "Python.kaggle.executor": "Run",
+    "Python.leapyears.executor": "Run",
+    "Python.listmethods.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.mosersegments.executor": "Run",
+    "Python.painting.executor": "Run",
+    "Python.palindromewostr.executor": "Run",
+    "Python.resistor_trio.executor": "Run",
+    "Python.rnainference.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "D:/Poo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "junie.project.settings",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -182,20 +213,88 @@
       <workItem from="1779767233318" duration="639000" />
       <workItem from="1779771579674" duration="3072000" />
       <workItem from="1779793924437" duration="8347000" />
-      <workItem from="1779828667222" duration="1435000" />
+      <workItem from="1779828667222" duration="3586000" />
+      <workItem from="1779902175528" duration="1452000" />
+      <workItem from="1779913048149" duration="893000" />
+      <workItem from="1779914553495" duration="1361000" />
+      <workItem from="1779939232161" duration="1824000" />
+      <workItem from="1779974832502" duration="2369000" />
+      <workItem from="1779980197216" duration="2795000" />
+      <workItem from="1780057779492" duration="245000" />
+      <workItem from="1780067072022" duration="1065000" />
+      <workItem from="1780071606540" duration="73000" />
+      <workItem from="1780107237876" duration="1554000" />
+      <workItem from="1780139904941" duration="3875000" />
+      <workItem from="1780150964138" duration="3483000" />
+      <workItem from="1780202333357" duration="3161000" />
+      <workItem from="1780233138242" duration="3114000" />
+      <workItem from="1780369457418" duration="6957000" />
+      <workItem from="1780414618808" duration="398000" />
+      <workItem from="1780499308892" duration="1023000" />
+      <workItem from="1780534332041" duration="4075000" />
+      <workItem from="1780547333572" duration="599000" />
+      <workItem from="1780611654716" duration="2266000" />
+      <workItem from="1780626372198" duration="2472000" />
+      <workItem from="1780674217427" duration="570000" />
+      <workItem from="1780687362550" duration="894000" />
+      <workItem from="1780751254734" duration="2321000" />
+      <workItem from="1780762240629" duration="1854000" />
+      <workItem from="1780790831430" duration="3622000" />
+      <workItem from="1780973720243" duration="2940000" />
+      <workItem from="1781018834720" duration="2210000" />
+      <workItem from="1781063458635" duration="896000" />
+      <workItem from="1781148319804" duration="4797000" />
+      <workItem from="1781178007128" duration="132000" />
+      <workItem from="1781271924752" duration="1201000" />
+      <workItem from="1781321244653" duration="1473000" />
+      <workItem from="1781363868913" duration="602000" />
+      <workItem from="1781410782307" duration="1335000" />
+      <workItem from="1781492862225" duration="2650000" />
+      <workItem from="1781535204594" duration="3222000" />
+      <workItem from="1781759103083" duration="74000" />
+      <workItem from="1782116374967" duration="1333000" />
+      <workItem from="1782155356749" duration="332000" />
+      <workItem from="1782207922599" duration="848000" />
+      <workItem from="1782612180438" duration="2661000" />
     </task>
+    <task id="LOCAL-00001" summary="go">
+      <option name="closed" value="true" />
+      <created>1779830172096</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1779830172096</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="go" />
+    <option name="LAST_COMMIT_MESSAGE" value="go" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Poo$binarymultiplication.coverage" NAME="binarymultiplication Coverage Results" MODIFIED="1779676674237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codwars" />
-    <SUITE FILE_PATH="coverage/Poo$armstrongnumbers.coverage" NAME="armstrongnumbers Coverage Results" MODIFIED="1779775934418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercism" />
-    <SUITE FILE_PATH="coverage/Poo$main.coverage" NAME="main Coverage Results" MODIFIED="1779623057165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/random" />
+    <SUITE FILE_PATH="coverage/Poo$resistor_trio.coverage" NAME="resistor_trio Coverage Results" MODIFIED="1780539165886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercism" />
+    <SUITE FILE_PATH="coverage/Poo$mosersegments.coverage" NAME="mosersegments Coverage Results" MODIFIED="1780205170953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codwars" />
+    <SUITE FILE_PATH="coverage/Poo$listmethods.coverage" NAME="listmethods Coverage Results" MODIFIED="1780152307536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercism" />
+    <SUITE FILE_PATH="coverage/Poo$BaumSweetSequence.coverage" NAME="BaumSweetSequence Coverage Results" MODIFIED="1781064311199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codwars" />
     <SUITE FILE_PATH="coverage/Poo$collatzconjecture.coverage" NAME="collatzconjecture Coverage Results" MODIFIED="1779807259611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercism" />
-    <SUITE FILE_PATH="coverage/Poo$kaggle.coverage" NAME="kaggle Coverage Results" MODIFIED="1779809711871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/random" />
+    <SUITE FILE_PATH="coverage/Poo$rnainference.coverage" NAME="rnainference Coverage Results" MODIFIED="1780404351809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercism" />
+    <SUITE FILE_PATH="coverage/Poo$kaggle.coverage" NAME="kaggle Coverage Results" MODIFIED="1781537282260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/random" />
     <SUITE FILE_PATH="coverage/Poo$leapyears.coverage" NAME="leapyears Coverage Results" MODIFIED="1779554289744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codwars" />
     <SUITE FILE_PATH="coverage/Poo$painting.coverage" NAME="painting Coverage Results" MODIFIED="1779554325113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hirst" />
+    <SUITE FILE_PATH="coverage/Poo$SubList.coverage" NAME="SubList Coverage Results" MODIFIED="1781178403635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercism" />
+    <SUITE FILE_PATH="coverage/Poo$CaesarCipher.coverage" NAME="CaesarCipher Coverage Results" MODIFIED="1780145883798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercism" />
+    <SUITE FILE_PATH="coverage/Poo$SmallestTransformer.coverage" NAME="SmallestTransformer Coverage Results" MODIFIED="1781540776306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codwars" />
+    <SUITE FILE_PATH="coverage/Poo$binarymultiplication.coverage" NAME="binarymultiplication Coverage Results" MODIFIED="1779676674237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codwars" />
+    <SUITE FILE_PATH="coverage/Poo$FlattenTheList.coverage" NAME="FlattenTheList Coverage Results" MODIFIED="1781495927596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercism" />
+    <SUITE FILE_PATH="coverage/Poo$armstrongnumbers.coverage" NAME="armstrongnumbers Coverage Results" MODIFIED="1779775934418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercism" />
+    <SUITE FILE_PATH="coverage/Poo$palindromewostr.coverage" NAME="palindromewostr Coverage Results" MODIFIED="1780791224954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/Poo$LiningTheStudents.coverage" NAME="LiningTheStudents Coverage Results" MODIFIED="1782614821835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codwars" />
+    <SUITE FILE_PATH="coverage/Poo$main.coverage" NAME="main Coverage Results" MODIFIED="1779623057165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/random" />
+    <SUITE FILE_PATH="coverage/Poo$House.coverage" NAME="House Coverage Results" MODIFIED="1781272523726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercism" />
+    <SUITE FILE_PATH="coverage/Poo$RNAHamming.coverage" NAME="RNAHamming Coverage Results" MODIFIED="1780405097336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercism" />
   </component>
 </project>

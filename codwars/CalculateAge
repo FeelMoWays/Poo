@@ -1,0 +1,10 @@
+def calculate_age(year_of_birth, current_year):
+    a = current_year - year_of_birth
+    if a == 1:
+        return "You are 1 year old."
+    elif a == 0:
+        return "You were born this very year!"
+    elif a < 0:
+        return f"You will be born in {-a} years."
+    else:
+        return f"You are {a} years old."

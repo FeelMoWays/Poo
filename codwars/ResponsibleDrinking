@@ -1,0 +1,6 @@
+def hydrate(drink_string): 
+    total_cups = sum(int(char) for char in drink_string if char.isdigit())
+    if total_cups == 1:
+        return "1 glass of water"
+    else:
+        return f"{total_cups} glasses of water"
