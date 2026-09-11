@@ -1,7 +1,10 @@
 # Create your class here
 class Cat:
   # Create a __init__ method
-  def __init__(self,input_name,input_color,input_age = 0)
+  def __init__(self,input_name,input_color,input_age = 0):
+    self.name = input_name
+    self.color = input_color
+    self.age = input_age
 
 # Create a new pet!
 Cat('Jimmy','Tuxedo',6)
