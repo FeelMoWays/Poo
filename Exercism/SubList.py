@@ -17,18 +17,34 @@ SUPERLIST = 2
 EQUAL = 3
 UNEQUAL = 4
 
-
+#Does not run 
 def sublist(list_one, list_two):
-    str1 = ",".join(map(str,list_one))
-    str2 = ",".join(map(str,list_two))
-    if str1 == str2:
+    if list_one == list_two:
         return EQUAL
-    res = str1.find(str2) != 1
-    bes = str2.find(str1) != 2
-    if res:
-        return res
-    else:
-        return bes
-u = sublist([1,2,3,4],[1,2,3])
-print(u)
+    if len(list_one) > len(list_two):
+        for i in range(len(list_one) - len(list_two) + 1):
+            if list_one[i:i + len(list_two)] == list_two:
+                return SUPERLIST
+    elif len(list_one) < len(list_two):
+        for i in range(len(list_two) - len(list_one) + 1):
+            if list_two[i:i + len(list_one)] == list_one:
+                return SUBLIST
+    
+    return UNEQUAL
+#Chatgpt answer
+def sublist(list_one, list_two):
 
+    if list_one == list_two:
+        return EQUAL
+
+    if len(list_one) < len(list_two):
+        for i in range(len(list_two) - len(list_one) + 1):
+            if list_two[i:i + len(list_one)] == list_one:
+                return SUBLIST
+
+    elif len(list_one) > len(list_two):
+        for i in range(len(list_one) - len(list_two) + 1):
+            if list_one[i:i + len(list_two)] == list_two:
+                return SUPERLIST
+
+    return UNEQUAL
