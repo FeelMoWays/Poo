@@ -1,19 +1,19 @@
-# import pandas as pd
-# import seaborn as sn
-# nobel = pd.read_csv(r"PandaProjects\NobelPrize\nobel.csv")
-# top_gender = nobel['gender'].mode()[0]
-# top_country = nobel['birth_country'].mode()[0]
-# nobel['decade'] = (nobel['prize_year'].astype(int) // 10) * 10
-# max_decade_usa = nobel.loc[nobel['birth_country'] == 'United States of America']['decade'].value_counts().idxmax()
-# max_female = nobel.loc[nobel['gender'] == 'Female'].groupby(['decade','category'])['prize'].size()
-# top_tier_decade = max_female.groupby(level='decade').idxmax()
-# max_female_dict = {decade:category for decade,(_,category) in top_tier_decade.items()}
-# first_female = nobel.loc[nobel['gender'] == 'Female']
-# first_female_o = first_female.loc[first_female['prize_year'].idxmin(),["full_name",'category']]
-# first_female_name = first_female_o.full_name
-# first_female_category = first_female_o.category
-# nobel_by_name = pd.DataFrame(nobel.groupby("full_name")["year"].agg("count"))
-# nobel_by_name.sort_values("year",ascending=False,inplace=True)
+import pandas as pd
+import seaborn as sn
+nobel = pd.read_csv(r"PandaProjects\NobelPrize\nobel.csv")
+top_gender = nobel['gender'].mode()[0]
+top_country = nobel['birth_country'].mode()[0]
+nobel['decade'] = (nobel['prize_year'].astype(int) // 10) * 10
+max_decade_usa = nobel.loc[nobel['birth_country'] == 'United States of America']['decade'].value_counts().idxmax()
+max_female = nobel.loc[nobel['gender'] == 'Female'].groupby(['decade','category'])['prize'].size()
+top_tier_decade = max_female.groupby(level='decade').idxmax()
+max_female_dict = {decade:category for decade,(_,category) in top_tier_decade.items()}
+first_female = nobel.loc[nobel['gender'] == 'Female']
+first_female_o = first_female.loc[first_female['prize_year'].idxmin(),["full_name",'category']]
+first_female_name = first_female_o.full_name
+first_female_category = first_female_o.category
+nobel_by_name = pd.DataFrame(nobel.groupby("full_name")["year"].agg("count"))
+nobel_by_name.sort_values("year",ascending=False,inplace=True)
 
 #Solution by DataCamp
 # Loading in required libraries

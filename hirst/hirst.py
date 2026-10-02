@@ -5,7 +5,7 @@
 #   r = i.rgb.r
  #   b = i.rgb.b
   #  g = i.rgb.g
-   # new = (r,g,b)
+  #new = (r,g,b)
 
     #pallete.append(new)
 #rint(pallete)
