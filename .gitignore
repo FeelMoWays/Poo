@@ -3,3 +3,5 @@ random\test.py
 random.py
 D:\Poo\Poo.code-workspace
 randomized.py
+__pycache__/
+*.pyc
